@@ -1,6 +1,6 @@
 ### G'day 👋
 
-TypeScript/Go developer based in Wellington, New Zealand. Currently splitting my time between UI tings at Rational Nomads and chewing glass/staring into the abyss at [GeoBuff](https://www.geobuff.com).
+TypeScript/Go developer based in Wellington, New Zealand. Currently splitting my time between Rational Nomads and [GeoBuff](https://www.geobuff.com).
 
 #### Interested in joining?
 
